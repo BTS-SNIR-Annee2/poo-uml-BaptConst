@@ -20,8 +20,8 @@ int main()
    cout << endl;
    
    /*
-    * Vous devez obtenir :
-    * Titre de l'article : Le Trone de fer, tome 14
+     Vous devez obtenir :
+     cout <<  a1.getTitre(); Titre de l'article : Le Trone de fer, tome 14.
     * Prix  de l'article : 12
     * Titre de l'article : A Game of Thrones - Le Trône de fer, tome 1
     * Prix  de l'article : 13.29
