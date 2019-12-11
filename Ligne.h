@@ -3,7 +3,7 @@
 
 class Article;
 
-class Ligne
+class Ligne 
 {
    private:
       Article *article;
